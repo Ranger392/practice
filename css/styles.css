@@ -1,1 +1,14 @@
-h1 {color: blue;}
+h2 { color: aqua; text-align: center;}
+h2s {color: blue; text-align: left;}
+p {font-family: sans-serif; text-align: center;  }
+  ul {
+    line-height: 40px;
+  }
+  body { 
+	font: 75% georgia, sans-serif;
+	line-height: 1.88889;
+	color: #555753; 
+	background: #fff url() no-repeat bottom right; 
+	margin: 0; 
+	padding: 0;
+	}
