@@ -1,14 +1,38 @@
-h2 { color: aqua; text-align: center;}
-h2s {color: blue; text-align: left;}
-p {font-family: sans-serif; text-align: center;  }
-  ul {
-    line-height: 40px;
-  }
-  body { 
-	font: 75% georgia, sans-serif;
-	line-height: 1.88889;
-	color: #555753; 
-	background: #fff url() no-repeat bottom right; 
-	margin: 0; 
-	padding: 0;
-	}
+body {
+  background-color: antiquewhite;
+ font-style: italic;
+}
+.titles {
+  text-align: center;
+}
+.both {
+  float: left;
+    clear: none; 
+}
+.image {
+  text-align: left;
+}
+.list {
+  position: absolute;
+  right: 5px;
+}
+
+
+/* h2 {
+  color: black;
+  text-align: center;
+}
+
+h3 {
+  color: black;
+  text-align: left;
+}
+
+p {
+  font-family: sans-serif;
+  text-align: right;
+}
+
+ul {
+  line-height: 40px;
+} */
